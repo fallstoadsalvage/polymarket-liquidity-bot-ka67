@@ -1,4 +1,4 @@
-# 
+# Polymarket ultimate bot: sentiment-analysis & cross-chain-arbitrage is the best Polymarket bot, featuring sentiment-analysis and cross-chain-arbitrage. Smart, fast, and optimized
 
 
 
